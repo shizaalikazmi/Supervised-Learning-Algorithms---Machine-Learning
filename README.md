@@ -17,6 +17,9 @@ The project covers a range of widely used models, including techniques for predi
 * Linear Regression
 * Logistic Regression
 * Decision Tree
+* Evaluation Matrices
+* Unbalanced data
+* Artificial Neural Networks (ANN)
 * K-Nearest Neighbors (KNN)
 * Support Vector Machine (SVM)
 * Naive Bayes
