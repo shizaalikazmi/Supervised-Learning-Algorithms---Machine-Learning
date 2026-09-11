@@ -22,7 +22,6 @@ The project covers a range of widely used models, including techniques for predi
 * Artificial Neural Networks (ANN)
 * K-Nearest Neighbors (KNN)
 * Support Vector Machine (SVM)
-* Naive Bayes
 
 ### 🎯 Purpose
 
